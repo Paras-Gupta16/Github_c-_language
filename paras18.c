@@ -15,7 +15,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    printf("\nEnter the size for the second array: ");
+    printf("\nEnter the size for the 2nd array: ");
     scanf("%d", &l);
     att = (int*)malloc(l * sizeof(int));
 

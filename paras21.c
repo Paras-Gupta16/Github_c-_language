@@ -23,7 +23,7 @@ void pop()
     if(top==NULL)
     {
         printf("ERROR:UNDERFLOW\n");
-        return ;
+        
     }
     printf("element deleted=%d",temp->data);
     top=top->link;

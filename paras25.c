@@ -18,6 +18,6 @@ void dfs(int i){
     }
 }
 int main(){
-    dfs(1);
+    dfs(0);
     return 0;
 }
